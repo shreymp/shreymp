@@ -7,7 +7,6 @@ I’m interested in:
 * Quantum Computing
 * Neuromorphic Computing
 * Reinforcement Learning
-* Scientific Computing
 * Computational Research
 * Computational Neuroscience
 
